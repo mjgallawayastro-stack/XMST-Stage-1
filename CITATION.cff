@@ -7,6 +7,10 @@ authors:
     given-names: Mark J.
 repository-code: "https://github.com/mjgallawayastro-stack/XMST-Stage-1"
 license: MIT
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.22112641"
+    description: "XMST Paper I validation data archive"
 keywords:
   - astronomy
   - astrophysics
