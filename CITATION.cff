@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use XMST in published work, please cite the associated paper and software release."
+title: "XMST: An Extended Minimum Spanning Tree Framework with Objective Fracture-Scale Selection"
+type: software
+authors:
+  - family-names: Gallaway
+    given-names: Mark J.
+repository-code: "https://github.com/mjgallawayastro-stack/XMST-Stage-1"
+license: MIT
+keywords:
+  - astronomy
+  - astrophysics
+  - minimum spanning tree
+  - stellar associations
+  - clustering
+  - Gaia
+  - percolation
+  - Jenks Natural Breaks
