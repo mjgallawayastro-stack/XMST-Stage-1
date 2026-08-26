@@ -1,6 +1,8 @@
-# Proposed Zenodo data archive
+# Zenodo data archive
 
-The permanent archive should contain the full aggregated outputs underlying Paper I, while avoiding duplicate checkpoints and worker logs.
+**DOI: 10.5281/zenodo.22112641**
+
+The permanent Paper I validation-data archive contains the full aggregated outputs underlying the manuscript, while avoiding duplicate checkpoints and worker logs.
 
 ## Percolation–Jenks MC1000
 
@@ -44,4 +46,4 @@ From `XMST_distance_uncertainty_100x100_MAXOVERLAP_CORRECTED/output_100x100_MAXO
 - `overall_summary.json`
 - `run_config.json` (with local filesystem path removed)
 
-Do not archive the superseded pre-correction distance-uncertainty run as a Paper I result product.
+The superseded pre-correction distance-uncertainty run is not part of the Paper I archive.
