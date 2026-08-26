@@ -1,0 +1,4 @@
+metric,value,denominator,rate,wilson95_low,wilson95_high
+all_eight_detected_count,1000,1000,1.0,0.996173241514445,1.0
+all_eight_strict_count,0,1000,0.0,2.168404344971009e-19,0.0038267584855551234
+overlap_pair_resolved_count,0,1000,0.0,2.168404344971009e-19,0.0038267584855551234

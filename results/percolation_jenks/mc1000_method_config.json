@@ -1,0 +1,23 @@
+{
+  "n_realisations": 1000,
+  "seed": 20260725,
+  "min_group_size": 10,
+  "min_branch_size": 20,
+  "min_reddening_per_branch": 15,
+  "min_reddening_fraction": 0.6,
+  "min_effect_size": 1.5,
+  "q_threshold": 0.01,
+  "branch_bootstraps": 500,
+  "min_bootstrap_stability": 0.95,
+  "coherence_fraction": 0.8,
+  "min_topology_persistence": 0.1,
+  "mixture_bootstraps": 250,
+  "jenks_bootstraps": 200,
+  "max_recursive_depth": 3,
+  "max_bootstrap_candidates_per_group": 25,
+  "overlap_distance_min_pc": 57.0,
+  "overlap_distance_max_pc": 83.0,
+  "centre_min_separation_pc": 120.0,
+  "centre_distance_min_pc": 250.0,
+  "centre_distance_max_pc": 900.0
+}
