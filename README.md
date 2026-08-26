@@ -16,7 +16,15 @@ This repository accompanies:
 
 **Gallaway, M. J. (2026), “XMST: An Extended Minimum Spanning Tree Framework with Objective Fracture-Scale Selection”**
 
-Publication details and DOI will be added when available. A frozen release of the code and full validation outputs will also be archived on Zenodo.
+Publication details and the paper DOI will be added when available.
+
+## Data archive
+
+The complete Paper I Monte Carlo validation outputs and corrected distance-uncertainty analysis are permanently archived on Zenodo:
+
+**DOI: 10.5281/zenodo.22112641**
+
+The Zenodo archive contains the full aggregated Percolation–Jenks, CDF and Mean Edge validation outputs together with the corrected 100 × 100 distance-uncertainty experiment. Compact summary products remain available directly in this repository.
 
 ## Method overview
 
@@ -80,6 +88,7 @@ XMST-Stage-1/
 │   └── ZENODO_DATA_MANIFEST.md
 ├── requirements.txt
 ├── SHA256SUMS.txt
+├── CITATION.cff
 ├── LICENSE
 └── README.md
 ```
@@ -90,7 +99,7 @@ XMST-Stage-1/
 
 ### Results
 
-`results/` contains compact summary outputs and configuration files used to verify the numerical results reported in the paper. Full Monte Carlo output tables are intended for the associated Zenodo archive rather than the GitHub repository.
+`results/` contains compact summary outputs and configuration files used to verify the numerical results reported in the paper. The complete validation outputs are archived at Zenodo DOI `10.5281/zenodo.22112641`.
 
 ## Installation
 
@@ -120,7 +129,7 @@ Additional astrophysical information such as proper motions, radial velocities, 
 
 ## Citation
 
-If you use XMST in published work, please cite the associated paper. A `CITATION.cff` file and permanent Zenodo DOI will be added to the frozen Paper I software release.
+If you use XMST in published work, please cite the associated paper when available. The full Paper I validation dataset is archived at **Zenodo DOI 10.5281/zenodo.22112641**. Software citation metadata are provided in `CITATION.cff`.
 
 ## Licence
 
